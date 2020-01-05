@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head profile='http://dublincore.org/documents/dcq-html/'>
+  <link rel='icon' href='img/icons/favicon.ico' type='image/x-icon' />
+  <link rel='schema.DC' href='http://purl.org/dc/elements/1.1/' />
+  <link rel='schema.DCTERMS' href='http://purl.org/dc/terms/' />
+  <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+  <meta charset='UTF-8' />
+  <meta name='AUTHOR' content='Oliver Merkel' />
+  <meta name='COPYRIGHT' content='Oliver Merkel' />
+  <meta name='DC.creator' content='Oliver Merkel' />
+  <meta name='DC.contributor' content='Oliver Merkel' />
+  <meta name='DC.rights' content="
+See file named LICENSE being part of the repository.
+
+Copyright (c) 2020
+@author Oliver Merkel, Merkel(dot)Oliver(at)web(dot)de.
+All rights reserved.
+
+Logos, brands, and trademarks belong to their respective owners.
+
+All source code also including code parts written in HMTL, Javascript, CSS is under MIT License.
+
+The MIT License (MIT)
+
+Copyright (c) 2020 Oliver Merkel, Merkel(dot)Oliver(at)web(dot)de
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the &quot;Software&quot;), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+If not otherwise stated all graphics (independent of its format) are licensed under
+    http://creativecommons.org/licenses/by-nc-sa/4.0
+    Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+" />
+<title>Einfaches Mancala</title>
+  <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no'
+    name='viewport' />
+</head>
+<body>
+<h1>Einfaches Mancala</h1>
+<h2>Regeln</h2>
+<h3>Spielmaterial</h3>
+<p>Das Spielbrett hat 4 Reihen mit je acht Mulden.
+  Je nach Ausführung des Spielbretts können noch weitere zwei (meist größere)
+  Mulden existieren.
+  Das Spielbrett wird quer zwischen die beiden Mitspieler gelegt.</p>
+<p>Es werden zusätzlich noch 64 Spielsteine ( <em>Kete</em> , oft Samenkörner der
+  Caesalpina Bonduc oder auch Halbedelsteine oder vergleichbare Spielsteine )
+  benötigt.</p>
+
+<h3>Startaufstellung</h3>
+<p>In jeder Mulde befinden sich anfangs 2 Spielsteine.</p>
+<img width='100%' src='img/mancala-4x8-initial_setup.svg' />
+
+<h3>Spielverlauf</h3>
+<p>Jeder Spieler kontrolliert die beiden ihm zugewandten Reihen von Mulden.
+  Gespielt wird abwechselnd. Es besteht Zugzwang. Ein Passen ist nicht
+  erlaubt.</p>
+<img width='100%' src='img/mancala-4x8-glossar.svg' />
+
+<p>Innerhalb eines Spielzugs entnimmt der Spieler alle Spielsteine aus einer
+  beliebigen seiner Mulden, die mehr als einen Spielstein enthält, und verteilt
+  diese einzeln im Uhrzeigersinn auf die eigenen darauf folgenden Mulden. Bei
+  zwölf Spielsteinen oder mehr werden diese in weiteren Runden inklusive der
+  geleerten Mulde weiter verteilt. Wird der letzte Spielstein in eine gefüllte
+  Mulde gelegt, so werden alle darin enthaltenen Spielsteine inklusive des
+  gerade gelegten Steines aufgenommen und weiter verteilt. Zusätzlich kann es
+  jedes Mal beim Legen des letzten Spielsteins vorkommen, dass man auch Steine
+  des Mitspielers aus seiner vorderen Reihe aufnimmt:
+  Fällt dieser letzte Stein in die eigene vordere Reihe und
+  enthält diese Mulde mindestens einen Spielstein, so werden alle in genau
+  dieser gegenüberliegenden Mulde des Mitspielers in der vorderen
+  Reihe des Mitspielers enthaltene Steine mit aufgenommen und ebenfalls weiter
+  verteilt.</p>
+
+<h3>Spielziel</h3>
+<p>Man gewinnt, sobald dem Mitspieler keine Zugmöglichkeiten mehr verbleiben
+  (er keine Mulde mit mehr als einem Spielstein mehr übrig hat).</p>
+
+<h3>Varianten</h3>
+<p>Es bleibt vor Spielbeginn abzustimmen, welche Regelvarianten gelten.
+  Einige der folgenden Regelvarianten schließen sich gegenseitig aus.</p>
+<ol>
+  <li>Im ersten Zug des Anfangsspielers werden noch keine Spielsteine aus
+    den Mulden des Mitspielers entnommen.</li>
+  <li>Man gewinnt, sobald entweder die vordere Reihe des Mitspielers komplett
+    leer ist oder dem Mitspieler keine Zugmöglichkeiten mehr verbleiben (er keine
+    Mulde mit mehr als einem Spielstein mehr übrig hat).</li>
+  <li>Man gewinnt, sobald die vordere Reihe des Mitspielers komplett
+    leer ist. Einzelsteine dürfen im Spiel selbst auch gezogen werden.
+    Spielzüge enden weiterhin, wenn der letzte Stein im Zug in eine leere
+    Mulde fällt.</li>
+  <li>Falls man aus der gegenüberliegenden Mulde der vorderen Reihe des
+    Mitspielers Steine entnimmt, so werden auch aus seiner hinteren
+    Reihe alle Spielsteine der genau gegenüberliegenden Mulde entnommen.
+    Dies gilt jedoch nur, falls auch aus seiner Mulde der vorderen Reihe
+    Spielsteine genommen werden.</li>
+  <li>Statt im Uhrzeigersinn wird gegen den Uhrzeigersinn gespielt.</li>
+  <li>Es kann pro Spielzug frei entschieden werden, ob im oder gegen den
+    Uhrzeigersinn gespielt wird. Innerhalb eines Spielzugs muss die Richtung
+    beibehalten werden.</li>
+  <li>Die Spieler legen einzeln für sich vor dem jeweiligen Spiel fest,
+    ob sie selbst im oder gegen den Uhrzeigersinn spielen. Innerhalb eines
+    Spiels muss die jeweils gewählte Richtung beibehalten werden.</li>
+  <li>Beim Spiel über mehrere Runden kann man statt um die Anzahl gewonnener
+    Spiele um Punkte spielen. Dabei notiert der Gewinner als Gewinnpunkte pro
+    Spiel die Anzahl aller Spielsteine auf seiner Spielfeldhälfte am Ende
+    seines Gewinnzuges. Verbleiben dem Mitspieler keine eigenen Spielsteine,
+    so gilt der Gewinn doppelt (2x48 = 96 Gewinnpunkte).</li>
+</ol>
+</body>
+</html>

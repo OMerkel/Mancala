@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+Copyright (c) 2020
+@author Oliver Merkel, Merkel(dot)Oliver(at)web(dot)de.
+All rights reserved.
+
+This graphics is licensed under a
+http://creativecommons.org/licenses/by-nc-sa/4.0
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+-->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100%"
+   height="100%"
+   viewBox="-20 -10 240 140"
+   version="1.1"
+   id="svg278"
+   sodipodi:docname="hus-4x8-glossar.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <defs
+     id="defs282">
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker2566"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path2564"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1135"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1141"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1153"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2566-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2564-6"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2566-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2564-7"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2566-3-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2564-6-3"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview280"
+     showgrid="false"
+     inkscape:zoom="4.45"
+     inkscape:cx="96.075256"
+     inkscape:cy="63.852763"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg278" />
+  <title>HUS - 4x8 - Glossar</title>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>HUS - 4x8 - Glossar</dc:title>
+        <dc:date>2020-01-05</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Oliver Merkel, Merkel(dot)Oliver (at)web(dot) de</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Oliver Merkel, Merkel(dot)Oliver (at)web(dot) de</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Oliver Merkel, Merkel(dot)Oliver (at)web(dot) de</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>en-GB</dc:language>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="opacity:0.5;fill:#00ffff;stroke:#000000;stroke-width:0.41943458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect1089-9"
+     width="177.28394"
+     height="61.778316"
+     x="12.369267"
+     y="61.987247"
+     ry="10.378757" />
+  <rect
+     style="opacity:0.5;fill:#ffff00;stroke:#000000;stroke-width:0.41943458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect1089"
+     width="177.28394"
+     height="61.778316"
+     x="12.369267"
+     y="-4.1925297"
+     ry="10.378757" />
+  <g>
+    <rect
+      style="opacity:1;fill:none;stroke:#000;stroke-width:1"
+      width="182" height="100" x="10" y="10" ry="10" rx="10" />
+    <path
+      style="opacity:1;fill:none;stroke:#000;stroke-width:0.4"
+      d="m 10,60 182,0" />
+    <g id='outer row north'>
+      <g transform='translate(0,24)'>
+        <g transform='translate(24,0)'>
+          <ellipse
+            style="opacity:1;fill:none;stroke:#000;stroke-width:1"
+            cx="0" cy="0" rx="10" ry="10" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="-2" cy="-2" rx="2" ry="2" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="2" cy="1" rx="2" ry="2" />
+        </g>
+        <g transform='translate(46,0)'>
+          <ellipse
+            style="opacity:1;fill:none;stroke:#000;stroke-width:1"
+            cx="0" cy="0" rx="10" ry="10" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="-2" cy="-2" rx="2" ry="2" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="2" cy="1" rx="2" ry="2" />
+        </g>
+        <g transform='translate(68,0)'>
+          <ellipse
+            style="opacity:1;fill:none;stroke:#000;stroke-width:1"
+            cx="0" cy="0" rx="10" ry="10" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="-2" cy="-2" rx="2" ry="2" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="2" cy="1" rx="2" ry="2" />
+        </g>
+        <g transform='translate(90,0)'>
+          <ellipse
+            style="opacity:1;fill:none;stroke:#000;stroke-width:1"
+            cx="0" cy="0" rx="10" ry="10" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="-2" cy="-2" rx="2" ry="2" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="2" cy="1" rx="2" ry="2" />
+        </g>
+        <g transform='translate(112,0)'>
+          <ellipse
+            style="opacity:1;fill:none;stroke:#000;stroke-width:1"
+            cx="0" cy="0" rx="10" ry="10" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="-2" cy="-2" rx="2" ry="2" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="2" cy="1" rx="2" ry="2" />
+        </g>
+        <g transform='translate(134,0)'>
+          <ellipse
+            style="opacity:1;fill:none;stroke:#000;stroke-width:1"
+            cx="0" cy="0" rx="10" ry="10" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="-2" cy="-2" rx="2" ry="2" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="2" cy="1" rx="2" ry="2" />
+        </g>
+        <g transform='translate(156,0)'>
+          <ellipse
+            style="opacity:1;fill:none;stroke:#000;stroke-width:1"
+            cx="0" cy="0" rx="10" ry="10" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="-2" cy="-2" rx="2" ry="2" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="2" cy="1" rx="2" ry="2" />
+        </g>
+        <g transform='translate(178,0)'>
+          <ellipse
+            style="opacity:1;fill:none;stroke:#000;stroke-width:1"
+            cx="0" cy="0" rx="10" ry="10" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="-2" cy="-2" rx="2" ry="2" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="2" cy="1" rx="2" ry="2" />
+        </g>
+      </g>
+    </g>
+    <g id='inner row north'>
+      <g transform='translate(0,46)'>
+        <g transform='translate(24,0)'>
+          <ellipse
+            style="opacity:1;fill:none;stroke:#000;stroke-width:1"
+            cx="0" cy="0" rx="10" ry="10" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="-2" cy="-2" rx="2" ry="2" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="2" cy="1" rx="2" ry="2" />
+        </g>
+        <g transform='translate(46,0)'>
+          <ellipse
+            style="opacity:1;fill:none;stroke:#000;stroke-width:1"
+            cx="0" cy="0" rx="10" ry="10" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="-2" cy="-2" rx="2" ry="2" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="2" cy="1" rx="2" ry="2" />
+        </g>
+        <g transform='translate(68,0)'>
+          <ellipse
+            style="opacity:1;fill:none;stroke:#000;stroke-width:1"
+            cx="0" cy="0" rx="10" ry="10" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="-2" cy="-2" rx="2" ry="2" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="2" cy="1" rx="2" ry="2" />
+        </g>
+        <g transform='translate(90,0)'>
+          <ellipse
+            style="opacity:1;fill:none;stroke:#000;stroke-width:1"
+            cx="0" cy="0" rx="10" ry="10" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="-2" cy="-2" rx="2" ry="2" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="2" cy="1" rx="2" ry="2" />
+        </g>
+        <g transform='translate(112,0)'>
+          <ellipse
+            style="opacity:1;fill:none;stroke:#000;stroke-width:1"
+            cx="0" cy="0" rx="10" ry="10" />
+        </g>
+        <g transform='translate(134,0)'>
+          <ellipse
+            style="opacity:1;fill:none;stroke:#000;stroke-width:1"
+            cx="0" cy="0" rx="10" ry="10" />
+        </g>
+        <g transform='translate(156,0)'>
+          <ellipse
+            style="opacity:1;fill:none;stroke:#000;stroke-width:1"
+            cx="0" cy="0" rx="10" ry="10" />
+        </g>
+        <g transform='translate(178,0)'>
+          <ellipse
+            style="opacity:1;fill:none;stroke:#000;stroke-width:1"
+            cx="0" cy="0" rx="10" ry="10" />
+        </g>
+      </g>
+    </g>
+    <g id='inner row south'>
+      <g transform='translate(0,74)'>
+        <g transform='translate(24,0)'>
+          <ellipse
+            style="opacity:1;fill:none;stroke:#000;stroke-width:1"
+            cx="0" cy="0" rx="10" ry="10" />
+        </g>
+        <g transform='translate(46,0)'>
+          <ellipse
+            style="opacity:1;fill:none;stroke:#000;stroke-width:1"
+            cx="0" cy="0" rx="10" ry="10" />
+        </g>
+        <g transform='translate(68,0)'>
+          <ellipse
+            style="opacity:1;fill:none;stroke:#000;stroke-width:1"
+            cx="0" cy="0" rx="10" ry="10" />
+        </g>
+        <g transform='translate(90,0)'>
+          <ellipse
+            style="opacity:1;fill:none;stroke:#000;stroke-width:1"
+            cx="0" cy="0" rx="10" ry="10" />
+        </g>
+        <g transform='translate(112,0)'>
+          <ellipse
+            style="opacity:1;fill:none;stroke:#000;stroke-width:1"
+            cx="0" cy="0" rx="10" ry="10" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="-2" cy="-2" rx="2" ry="2" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="2" cy="1" rx="2" ry="2" />
+        </g>
+        <g transform='translate(134,0)'>
+          <ellipse
+            style="opacity:1;fill:none;stroke:#000;stroke-width:1"
+            cx="0" cy="0" rx="10" ry="10" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="-2" cy="-2" rx="2" ry="2" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="2" cy="1" rx="2" ry="2" />
+        </g>
+        <g transform='translate(156,0)'>
+          <ellipse
+            style="opacity:1;fill:none;stroke:#000;stroke-width:1"
+            cx="0" cy="0" rx="10" ry="10" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="-2" cy="-2" rx="2" ry="2" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="2" cy="1" rx="2" ry="2" />
+        </g>
+        <g transform='translate(178,0)'>
+          <ellipse
+            style="opacity:1;fill:none;stroke:#000;stroke-width:1"
+            cx="0" cy="0" rx="10" ry="10" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="-2" cy="-2" rx="2" ry="2" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="2" cy="1" rx="2" ry="2" />
+        </g>
+      </g>
+    </g>
+    <g id='outer row south'>
+      <g transform='translate(0,96)'>
+        <g transform='translate(24,0)'>
+          <ellipse
+            style="opacity:1;fill:none;stroke:#000;stroke-width:1"
+            cx="0" cy="0" rx="10" ry="10" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="-2" cy="-2" rx="2" ry="2" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="2" cy="1" rx="2" ry="2" />
+        </g>
+        <g transform='translate(46,0)'>
+          <ellipse
+            style="opacity:1;fill:none;stroke:#000;stroke-width:1"
+            cx="0" cy="0" rx="10" ry="10" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="-2" cy="-2" rx="2" ry="2" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="2" cy="1" rx="2" ry="2" />
+        </g>
+        <g transform='translate(68,0)'>
+          <ellipse
+            style="opacity:1;fill:none;stroke:#000;stroke-width:1"
+            cx="0" cy="0" rx="10" ry="10" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="-2" cy="-2" rx="2" ry="2" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="2" cy="1" rx="2" ry="2" />
+        </g>
+        <g transform='translate(90,0)'>
+          <ellipse
+            style="opacity:1;fill:none;stroke:#000;stroke-width:1"
+            cx="0" cy="0" rx="10" ry="10" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="-2" cy="-2" rx="2" ry="2" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="2" cy="1" rx="2" ry="2" />
+        </g>
+        <g transform='translate(112,0)'>
+          <ellipse
+            style="opacity:1;fill:none;stroke:#000;stroke-width:1"
+            cx="0" cy="0" rx="10" ry="10" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="-2" cy="-2" rx="2" ry="2" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="2" cy="1" rx="2" ry="2" />
+        </g>
+        <g transform='translate(134,0)'>
+          <ellipse
+            style="opacity:1;fill:none;stroke:#000;stroke-width:1"
+            cx="0" cy="0" rx="10" ry="10" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="-2" cy="-2" rx="2" ry="2" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="2" cy="1" rx="2" ry="2" />
+        </g>
+        <g transform='translate(156,0)'>
+          <ellipse
+            style="opacity:1;fill:none;stroke:#000;stroke-width:1"
+            cx="0" cy="0" rx="10" ry="10" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="-2" cy="-2" rx="2" ry="2" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="2" cy="1" rx="2" ry="2" />
+        </g>
+        <g transform='translate(178,0)'>
+          <ellipse
+            style="opacity:1;fill:none;stroke:#000;stroke-width:1"
+            cx="0" cy="0" rx="10" ry="10" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="-2" cy="-2" rx="2" ry="2" />
+          <ellipse id='kete'
+            style="stroke-opacity:0.6;fill:#000;stroke:#000;stroke-width:1;fill-opacity:0.3"
+            cx="2" cy="1" rx="2" ry="2" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="101.04793"
+     y="6.2696629"
+     id="text1093"><tspan
+       sodipodi:role="line"
+       id="tspan1091"
+       x="101.04793"
+       y="6.2696629">Spieler 2</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="101.04793"
+     y="120.32748"
+     id="text1093-7"><tspan
+       sodipodi:role="line"
+       id="tspan1091-7"
+       x="101.04793"
+       y="120.32748">Spieler 1</tspan></text>
+  <g
+     id="g7997">
+    <path
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path1130"
+       d="M 185.39326,46.067416 C 168.67955,45.992356 21.499049,45.762871 15.983149,45.814607 c -34.94839,0.327795 -34.962324,-22.106584 -0.02809,-22.44382"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6, 1;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2566)" />
+    <path
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path1130-9"
+       d="M 185.39326,96.358376 C 168.67955,96.283316 21.499049,96.053831 15.983149,96.105567 c -34.94839,0.327795 -34.962324,-22.106584 -0.02809,-22.44382"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6, 1;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2566-3)" />
+  </g>
+  <g
+     transform="rotate(180,100.67416,59.864582)"
+     id="g7997-1">
+    <path
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path1130-6"
+       d="M 185.39326,46.067416 C 168.67955,45.992356 21.499049,45.762871 15.983149,45.814607 c -34.94839,0.327795 -34.962324,-22.106584 -0.02809,-22.44382"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6, 1;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2566-9)" />
+    <path
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path1130-9-3"
+       d="M 185.39326,96.358376 C 168.67955,96.283316 21.499049,96.053831 15.983149,96.105567 c -34.94839,0.327795 -34.962324,-22.106584 -0.02809,-22.44382"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6, 1;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2566-3-5)" />
+  </g>
+  <rect
+     style="opacity:0.8;fill:#ffffff;stroke:none;stroke-width:1.10092568;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:6.6055542, 1.1009257;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect8112-0"
+     width="69.438202"
+     height="8.988143"
+     x="66.280899"
+     y="61.573345"
+     ry="4.4940715" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="101.20703"
+     y="67.781715"
+     id="text8076"><tspan
+       sodipodi:role="line"
+       id="tspan8074"
+       x="101.20703"
+       y="67.781715">vordere Reihe Spieler 1</tspan></text>
+  <rect
+     style="opacity:0.8;fill:#ffffff;stroke:none;stroke-width:1.10092568;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:6.6055542, 1.1009257;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect8112"
+     width="69.438202"
+     height="8.988143"
+     x="66.280899"
+     y="26.742195"
+     ry="4.4940715" />
+  <rect
+     style="opacity:0.8;fill:#ffffff;stroke:none;stroke-width:1.10092568;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:6.6055542, 1.1009257;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect8112-8"
+     width="69.438202"
+     height="8.988143"
+     x="66.280899"
+     y="48.764355"
+     ry="4.4940715" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="101.09635"
+     y="54.882839"
+     id="text8076-1"><tspan
+       sodipodi:role="line"
+       id="tspan8074-0"
+       x="101.09635"
+       y="54.882839">vordere Reihe Spieler 2</tspan></text>
+  <rect
+     style="opacity:0.8;fill:#ffffff;stroke:none;stroke-width:1.10092568;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:6.6055542, 1.1009257;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect8112-1"
+     width="69.438202"
+     height="8.988143"
+     x="66.280899"
+     y="83.371101"
+     ry="4.4940715" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="101.04557"
+     y="89.781715"
+     id="text8076-3"><tspan
+       sodipodi:role="line"
+       id="tspan8074-4"
+       x="101.04557"
+       y="89.781715">hintere Reihe Spieler 1</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="100.9349"
+     y="33.174973"
+     id="text8076-0"><tspan
+       sodipodi:role="line"
+       id="tspan8074-5"
+       x="100.9349"
+       y="33.174973">hintere Reihe Spieler 2</tspan></text>
+</svg>
